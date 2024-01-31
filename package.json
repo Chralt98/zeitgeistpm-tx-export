@@ -3,8 +3,9 @@
   "version": "0.0.0",
   "description": "An npm package using subscan.io to export zeitgeist.pm transaction data in a token tracking tool format.",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": "https://github.com/Chralt98/zeitgeistpm-tx-export.git",
-  "author": "Chralt98 <chralt98@gmail.com>",
+  "author": "Chralt98 <chralt.developer@gmail.com>",
   "license": "GPL-3.0",
   "private": false,
   "files": [
